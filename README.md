@@ -31,4 +31,4 @@ ilerletebilirsiniz.
 
 Resim test etmek için model dosyasını ve images klasörünü günceledikten sonra aşağıdaki komut ile test edilebilir.
 
-`python test_image.py -i images/bi_72.jpg -w model/yolov4-tiny.weights -c model/yolov4-tiny.cfg -n model/obj.names -cn 0.1 -st 0.2 -io 0.1`
+`python test_image.py -i bi_72.jpg -w yolov4-tiny.weights -c yolov4-tiny.cfg -n obj.names -cn 0.1 -st 0.2 -io 0.1`
