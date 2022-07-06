@@ -6,3 +6,5 @@
 *.iml
 out
 gen
+model/*.weights
+model/*.names
